@@ -1,0 +1,8 @@
+.background-container {
+  width: 86vw;
+  height: 100vh;
+  background-size: cover;     /* Ajusta la imagen */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat;
+  opacity: 100%;
+}
